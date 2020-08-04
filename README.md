@@ -13,4 +13,4 @@ azzollinigianluca@gmail.com <br/>
 
 <br/>
 <br/>
-<img src="https://github.com/azzollinigianluca95/VR-ROOM-web-application-using-a-frame/blob/master/project%20new/Screenshot.png" width="380">
+<img src="https://github.com/azzollinigianluca95/VR-ROOM-web-application-using-a-frame/blob/master/project%20new/Screenshot.png" width="430">
